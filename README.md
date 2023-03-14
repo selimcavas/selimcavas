@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimcavas&show_icons=true&theme=radical&locale=en&layout=compact" alt="selimcavas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimcavas&show_icons=true&theme=radical&locale=en" alt="selimcavas" /></p>
+
+[![selimcavas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=selimcavas&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
