@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">I am a 3rd year Computer Science student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selimcavas&label=Profile%20views&color=0e75b6&style=flat" alt="selimcavas" /> </p>
-
 - 🌱 I’m currently learning **ML, React and Flutter.**
 
 - 💬 Ask me about **java, puppeteer & REST**
