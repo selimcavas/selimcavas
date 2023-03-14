@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimcavas&show_icons=true&theme=radical&locale=en&layout=compact" alt="selimcavas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimcavas&show_icons=true&theme=radical&locale=en" alt="selimcavas" /></p>
+
+![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=c9cbff)
