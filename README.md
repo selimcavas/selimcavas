@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">I am a 3rd year Computer Science student.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=200&section=header&text=Hi%20👋,%20I'm%20Selim&fontSize=50&fontAlignY=40&fontColor=1e1e2e&desc=Junior%20CS%20Student&descSize=20&descAlign=60&descAlignY=60&animation=fadeIn)
 
 - 🌱 I’m currently learning **ML, React and Flutter.**
 
@@ -17,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimcavas&show_icons=true&theme=radical&locale=en" alt="selimcavas" /></p>
 
-![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=cba6f7)
+![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=1e1e2e)
