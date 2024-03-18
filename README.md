@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=200&section=header&text=Hi%20👋,%20I'm%20Selim&fontSize=50&fontAlignY=40&fontColor=1e1e2e&desc=Senior%20CS%20Student&descSize=20&descAlign=60&descAlignY=60&animation=fadeIn)
 
-- 🌱 I’m currently learning **ML, React and Flutter.**
+- 🌱 I’m currently learning about **Langchain, LLMS and RAG.**
 
 - 💬 Ask me about **java, puppeteer & REST**
 
