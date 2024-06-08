@@ -17,8 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimcavas&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="selimcavas" /></p>
 
 ![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=1e1e2e)
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/selimcavas/selimcavas/assets/92586913/67903520-a9e4-4143-8aae-8095f9d51e20');]{x0000}$}
-
-
