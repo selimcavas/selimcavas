@@ -18,5 +18,3 @@
 
 ![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=1e1e2e)
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/selimcavas/selimcavas/assets/92586913/34e058ea-77ce-43ed-ae61-e7d96c6400cc');]{x0000}$}
