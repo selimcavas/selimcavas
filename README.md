@@ -19,6 +19,6 @@
 ![](https://komarev.com/ghpvc/?username=selimcavas&style=for-the-badge&color=1e1e2e)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/selimcavas/selimcavas/assets/92586913/7d808c7e-8114-4e2b-9024-244aa7c35d44');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/selimcavas/selimcavas/assets/92586913/0aba1cdb-617b-4545-915f-779bd157bef9');]{x0000}$}
 
 
